@@ -1,7 +1,7 @@
-### Olá, meu nome é Felipe Oliveira 👋
+### Olá, meu nome é Felipe Fernandes 👋
 
-- 🔭 Hoje trabalho como analista de redes!
-- 🌱 Estou estudando Typescript
+- 🔭 Hoje trabalho com Analise de dados
+- 🌱 Estou estudando Python e SQL
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lipefan0&show_icons=true&theme=dracula"/>
